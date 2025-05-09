@@ -14,7 +14,7 @@ const Inicio = () => {
             />
           </div>
         </div>
-        <div className="w-full md:w-2/3 p-8 bg-white">
+        <div className="w-full md:w-2/3 p-8 bg-white text-center">
           <h1 className="text-4xl font-bold mb-2">JUAN ESTEBAN LEAL</h1>
           <h2 className="text-xl text-gray-700 mb-6">TECNÓLOGO EN ANÁLISIS Y DESARROLLO DE SOFTWARE</h2>
           
